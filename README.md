@@ -1,2 +1,2 @@
-# usb-rubber-ducky-rickrolled-script-for-android
-This is a usb rubberducky scrpit to rickroll someone in their android phones. This works on pretty much every android phone and concurrent versions.
+# Usb Rubber Ducky Rickrolled Script For Android
+This is a usb rubberducky scrpit to rickroll someone in their android phones. This works on pretty much every android phone and concurrent versions. I personally tested Android 9 and higher versions. This is a very simple script just open the browser on the phone and type the link of rickrolled video in url bar and automatically unmute the sound of the video, and you can incerase the delay amount if any network probelm occurs while fetching the video.
